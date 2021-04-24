@@ -1,4 +1,4 @@
-# RedHatProject
+# Runner
 
 ## Links to the resources I have used while working on the task:
 
