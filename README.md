@@ -22,10 +22,10 @@
 
 ## Challenges that I have encountered while working on the tasks:
 
-In order to complete this project Ihad to learn a lot by myself:
+In order to complete this project I had to learn a lot by myself:
 1. Python packages such as psutil, os, sys, pytest etc.
-2. what is docker file and how to build and use it.
-3. how to write requirements automatically
-4. how to monitor bash commands
-5. how to write a singletone class in python
-6. how to handle signals in python
+2. What is docker file and how to build and use it.
+3. How to write requirements automatically
+4. How to monitor bash commands
+5. How to write a singletone class in python
+6. How to handle signals in python
