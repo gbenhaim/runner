@@ -6,6 +6,7 @@ import sys
 if __name__ == "__main__":
 
     # create a singleton instance
+    
     ms = MyShell.getInstance()
     signal.signal(signal.SIGINT, receiveSignal)
 
