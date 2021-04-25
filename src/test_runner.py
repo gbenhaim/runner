@@ -4,6 +4,7 @@ from termcolor import colored
 
 def test_init():
     """ Test should check that the init works correctly"""
+    
     command = Command("cd ./home")
     assert command.command_to_exe == "cd ./home "
     assert command.original_command == "cd ./home"
